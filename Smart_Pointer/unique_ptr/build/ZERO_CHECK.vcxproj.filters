@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sasch\OneDrive\Studium\Cpp_Basics\Cpp_Basics\Smart_Pointer\unique_ptr\build\CMakeFiles\af9a52cead6b8ddc174b93f581e15ecd\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3563EA2E-37BC-39D3-B4FD-73B5D3186B56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
