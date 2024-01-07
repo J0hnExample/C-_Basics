@@ -1,7 +1,8 @@
 # C++_Basics
 Some Basic C++ lessons
-Educational comments 
 
 1 # Smart Pointers
+  unique_pointer
+  shared_pointer
 
 
