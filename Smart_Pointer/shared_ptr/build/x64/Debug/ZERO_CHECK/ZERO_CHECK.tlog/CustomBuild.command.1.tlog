@@ -1,0 +1,10 @@
+^C:\USERS\SASCH\ONEDRIVE\STUDIUM\CPP_BASICS\CPP_BASICS\SMART_POINTER\SHARED_PTR\BUILD\CMAKEFILES\E8625DE988B9F5A867AAC022BD2C267B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sasch/OneDrive/Studium/Cpp_Basics/Cpp_Basics/Smart_Pointer/shared_ptr -BC:/Users/sasch/OneDrive/Studium/Cpp_Basics/Cpp_Basics/Smart_Pointer/shared_ptr/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sasch/OneDrive/Studium/Cpp_Basics/Cpp_Basics/Smart_Pointer/shared_ptr/build/C++.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
