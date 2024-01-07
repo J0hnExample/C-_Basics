@@ -1,0 +1,3 @@
+C:/Users/sasch/OneDrive/Studium/Cpp_Basics/Cpp_Basics/Patterns/Singleton/build/CMakeFiles/hello.dir
+C:/Users/sasch/OneDrive/Studium/Cpp_Basics/Cpp_Basics/Patterns/Singleton/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sasch/OneDrive/Studium/Cpp_Basics/Cpp_Basics/Patterns/Singleton/build/CMakeFiles/ZERO_CHECK.dir

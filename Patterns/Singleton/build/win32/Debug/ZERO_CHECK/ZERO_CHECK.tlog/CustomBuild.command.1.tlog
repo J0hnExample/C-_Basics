@@ -1,0 +1,10 @@
+^C:\USERS\SASCH\ONEDRIVE\STUDIUM\CPP_BASICS\CPP_BASICS\PATTERNS\SINGLETON\BUILD\CMAKEFILES\5BD24AF30B05DFBF57C02B0365BEC5E0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sasch/OneDrive/Studium/Cpp_Basics/Cpp_Basics/Patterns/Singleton -BC:/Users/sasch/OneDrive/Studium/Cpp_Basics/Cpp_Basics/Patterns/Singleton/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sasch/OneDrive/Studium/Cpp_Basics/Cpp_Basics/Patterns/Singleton/build/C++.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
